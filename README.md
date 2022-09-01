@@ -15,3 +15,8 @@ Employees are the backbone of any company and their management system plays an i
 **Dept_emp:**	(emp_no, dept_no, from_date, to_date)
 
 **Salaries:**	(emp_no, salary, from_date, to_date)
+
+
+# **Final Write-up**
+https://docs.google.com/document/u/1/d/e/2PACX-1vTlLlR1RkT_MKWdU_AAYjjgNr7bnboopx_QtD00R2pQIwjwYFuU2wYnIn0KHjq0zw/pub
+
